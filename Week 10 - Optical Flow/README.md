@@ -22,15 +22,15 @@ The main program, `lab7OFMain.m`, is responsible for loading the video files, de
 
 ## Results 
 
-After implementing the optical flow algorithm, I obtained resulting images for each step of the process. I also compared the performances of the optical flow algorithm with different window sizes (k = 10, k = 20, k = 30) and smoothing filters (Box and Gaussian).
+After implementing the optical flow algorithm, I obtained the resulting images for each process step. I also compared the performances of the optical flow algorithm with different window sizes (k = 10, k = 20, k = 30) and smoothing filters (Box and Gaussian).
 
-| ![Cars 1](Cars1.gif) | ![Cars 2](Cars2.gif) |
+| ![Cars 1](https://github.com/MosesEbere/Introductory_Computer_Vision_Labs/blob/main/Week%2010%20-%20Optical%20Flow/Results/Cars1.gif) | ![Cars 2](https://github.com/MosesEbere/Introductory_Computer_Vision_Labs/blob/main/Week%2010%20-%20Optical%20Flow/Results/Cars2.gif) |
 |:---------------------------------------:|:---------------------------------------:|
 |                Cars 1                  |                Cars 2                  |
-| ![Rubic](Rubic.gif) | ![Sphere](Sphere.gif) |
+| ![Rubic](https://github.com/MosesEbere/Introductory_Computer_Vision_Labs/blob/main/Week%2010%20-%20Optical%20Flow/Results/Rubic.gif) | ![Sphere](https://github.com/MosesEbere/Introductory_Computer_Vision_Labs/blob/main/Week%2010%20-%20Optical%20Flow/Results/Sphere.gif) |
 |:---------------------------------------:|:---------------------------------------:|
 |                Rubic                  |                Sphere                  |
-| ![Taxi](Taxi.gif) | ![Traffic](Traffic.gif) |
+| ![Taxi](https://github.com/MosesEbere/Introductory_Computer_Vision_Labs/blob/main/Week%2010%20-%20Optical%20Flow/Results/Taxi.gif) | ![Traffic](https://github.com/MosesEbere/Introductory_Computer_Vision_Labs/blob/main/Week%2010%20-%20Optical%20Flow/Results/Traffic.gif) |
 |:---------------------------------------:|:---------------------------------------:|
 |                Taxi                  |                Traffic                  |
 
